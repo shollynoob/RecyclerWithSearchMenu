@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecyclerWithSearchMenu</string>
+    <string name="lcd">lcd</string>
+    <string name="search">Search</string>
+</resources>
